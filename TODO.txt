@@ -1,0 +1,9 @@
+1 - home image to carousel?
+2 - hovering on rating to get details on ratings
+3 - how products are responsive in row
+
+
+--------------------------------
+Understand 
+-------------------------------- 
+1- mask-image? used in home.css
