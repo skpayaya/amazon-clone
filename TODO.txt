@@ -1,6 +1,7 @@
 1 - home image to carousel?
 2 - hovering on rating to get details on ratings
-3 - how products are responsive in row
+3 - how products are responsive in row\
+4 - cart products in quantity rather than all the items in order
 
 
 --------------------------------
